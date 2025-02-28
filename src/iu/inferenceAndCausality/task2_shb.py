@@ -1,6 +1,6 @@
 '''
 Created on 23.02.2025
-
+Code for Workbook Inference & Causality Task2
 @author: tillschoenbein
 '''
 import matplotlib.pyplot as plt
